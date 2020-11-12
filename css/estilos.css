@@ -12,3 +12,9 @@ body{
 {
  margin-top: 0px;
 }
+.encabezado{
+    background-color: darkcyan;
+     padding: 20px;
+     margin-bottom: 45px;
+     box-shadow: 3px 10px 34px rgb(176, 236, 35);
+}
