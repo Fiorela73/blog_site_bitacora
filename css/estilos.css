@@ -11,6 +11,7 @@ body{
 .h2
 {
  margin-top: 0px;
+ color:palevioletred;
 }
 .encabezado{
     background-color: darkcyan;
@@ -22,4 +23,7 @@ body{
     background-color:cornflowerblue;
     padding: 78px;
     margin-top:45px;
+}
+.h3{
+    color: tomato;
 }
