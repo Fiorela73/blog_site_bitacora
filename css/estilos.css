@@ -1,3 +1,14 @@
 body{
-    background-color: darksalmon;
+   
+}
+.main{
+    width: 70%;
+    margin: 20px auto;
+    border :1px solid deeppink;
+    padding: 20px;
+    background-color: lightcyan;
+}
+.h2
+{
+ margin-top: 0px;
 }
