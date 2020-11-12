@@ -18,3 +18,8 @@ body{
      margin-bottom: 45px;
      box-shadow: 3px 10px 34px rgb(176, 236, 35);
 }
+.mi_cambio{
+    background-color:cornflowerblue;
+    padding: 78px;
+    margin-top:45px;
+}
