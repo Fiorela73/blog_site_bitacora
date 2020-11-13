@@ -1,0 +1,29 @@
+body{
+   font-style: italic;
+}
+.main{
+    width: 90%;
+    margin: 20px auto;
+    border :1px solid deeppink;
+    padding: 20px;
+    background-color: rgb(220, 241, 163);
+}
+.h2
+{
+ margin-top: 0px;
+ color:palevioletred;
+}
+.encabezado{
+    background-color: rgb(243, 161, 140);
+     padding: 20px;
+     margin-bottom: 45px;
+     box-shadow: 3px 10px 34px rgb(176, 236, 35);
+}
+.mi_cambio{
+    background-color:cornflowerblue;
+    padding: 78px;
+    margin-top:45px;
+}
+h3{
+    color: tomato;
+}
